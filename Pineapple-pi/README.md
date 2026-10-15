@@ -1,4 +1,4 @@
-# PineApple-Pi v0.2.0
+# PineApple-Pi v0.3.0
 Flattened Raspberry Pi wireless inventory appliance.
 
 ## Radio roles
